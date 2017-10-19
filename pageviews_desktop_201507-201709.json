@@ -1,0 +1,220 @@
+{
+ "items": [
+ {
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2015070100",
+"views": 4.3767e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2015080100",
+"views": 4.3325e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2015090100",
+"views": 4.4855e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2015100100",
+"views": 4.4775e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2015110100",
+"views": 4.2877e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2015120100",
+"views": 4.1e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2016010100",
+"views": 4.4362e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2016020100",
+"views": 4.251e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2016030100",
+"views": 4.2866e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2016040100",
+"views": 4.1494e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2016050100",
+"views": 4.1918e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2016060100",
+"views": 3.8888e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2016070100",
+"views": 4.3379e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2016080100",
+"views": 4.695e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2016090100",
+"views": 4.135e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2016100100",
+"views": 4.3617e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2016110100",
+"views": 4.3921e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2016120100",
+"views": 4.2096e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2017010100",
+"views": 4.522e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2017020100",
+"views": 4.0267e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2017030100",
+"views": 4.32e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2017040100",
+"views": 3.9515e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2017050100",
+"views": 4.1879e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2017060100",
+"views": 3.6046e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2017070100",
+"views": 3.5654e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2017080100",
+"views": 3.5756e+09 
+},
+{
+ "project": "en.wikipedia",
+"access": "desktop",
+"agent": "user",
+"granularity": "monthly",
+"timestamp": "2017090100",
+"views": 3.5474e+09 
+} 
+] 
+}
